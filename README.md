@@ -9,6 +9,10 @@ Designed as a Capstone project, this application integrates gamification to enha
 
 A user-centred approach will be applied to encourage usability and engagement. The application would be usable for various research studies (e.g. mental health studies, product engagement studies, etc.). Hence, it could be used in a wide array of fields.
 
+### Domain Diagram
+
+![image](https://github.com/HamzahSheikh/datum-io-public/assets/57862914/d11ec8fa-3e9b-42fa-a692-7eb4e2c3e3db)
+
 ### Gallery
 ![image](https://github.com/HamzahSheikh/datum-io-public/assets/57862914/5bda7e3f-57ad-46f8-b337-3892e71300ca)
 
